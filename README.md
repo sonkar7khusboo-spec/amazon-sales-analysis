@@ -193,3 +193,8 @@ Skills: SQL | Power BI | Data Modeling
 
 https://www.linkedin.com/in/khushboo-sonkar-4411112aa 
 
+________________________________________
+**Dashboard Image**
+
+<img width="1325" height="747" alt="image" src="https://github.com/user-attachments/assets/271685c7-d920-4b8a-a6b4-ecabdf0b10ee" />
+
